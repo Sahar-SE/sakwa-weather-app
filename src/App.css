@@ -47,7 +47,9 @@ nav ul {
   width: 3rem;
 }
 
-.microphone, .settings, .backIcon {
+.microphone,
+.settings,
+.backIcon {
   color: white;
 }
 
@@ -57,7 +59,9 @@ nav ul {
   font-weight: bold;
 }
 
-.countriesPage, .statesPage, .weatherInfoPage {
+.countriesPage,
+.statesPage,
+.weatherInfoPage {
   background-image: url('./imgs/pho.jpg');
   background-repeat: no-repeat;
   background-position: center;
@@ -74,7 +78,6 @@ nav ul {
 
 .homePageCover {
   background: url(imgs/weather-satellite-2618.jpg) no-repeat;
-  background-position: absolute;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -140,7 +143,8 @@ nav ul {
   margin: 0.2rem;
 }
 
-.country:hover, .state:hover {
+.country:hover,
+.state:hover {
   cursor: pointer;
   background-color: rgba(242, 242, 246, 0.259);
   color: black;

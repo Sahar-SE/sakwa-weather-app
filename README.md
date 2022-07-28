@@ -16,7 +16,9 @@ I have built this project using react-redux and JavaScript.
 - Webpack
 - Jest
 
-## Live Demo (Netlify) 💻
+## Live Demo (Heroku) 💻
+[Live Demo](https://redux-h.herokuapp.com/)
+
 
 To get a local copy up and running follow these simple example steps.
 

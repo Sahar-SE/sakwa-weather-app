@@ -27,6 +27,7 @@ const States = () => {
           States
         </p>
       </div>
+      <small>developed by SaharSaba Amiri</small>
       <div className="states padding">
         {countryState.states.map((state) => (
           <State

@@ -245,3 +245,8 @@ nav ul {
   grid-template-columns: repeat(2, 1fr);
   padding-bottom: 2rem;
 }
+
+small {
+  color: gray;
+  font-size: 10px;
+}

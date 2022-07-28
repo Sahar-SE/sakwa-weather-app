@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# World Weather
+# Weather Condition
 
 > This is a SPA react-app project that is built using two APIs. And users can select and choose countries and states and get their updated weather info. 
 I have built this project using react-redux and JavaScript.
@@ -16,7 +16,10 @@ I have built this project using react-redux and JavaScript.
 - Webpack
 - Jest
 
-## Live Demo (Netlify) 💻
+## Live Demo (Heroku) 💻
+[Live Demo](https://redux-h.herokuapp.com/)
+[Video](https://drive.google.com/file/d/1Tzbxlkd5XIjPWfbDMQomM3nNWWKI_xxj/view?usp=sharing)
+
 
 To get a local copy up and running follow these simple example steps.
 

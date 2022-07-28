@@ -10,8 +10,6 @@ exports[`renders correctly 1`] = `
         className="navLinks"
       >
         <a
-          aria-current="page"
-          className="active"
           exact="true"
           href="/"
           onClick={[Function]}
@@ -41,8 +39,7 @@ exports[`renders correctly 1`] = `
           </svg>
         </a>
         <a
-          aria-current="page"
-          className="navlink active"
+          className="navlink"
           exact="true"
           href="/"
           onClick={[Function]}

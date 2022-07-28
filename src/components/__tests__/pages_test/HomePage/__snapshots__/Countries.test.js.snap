@@ -8,12 +8,16 @@ exports[`Testing Countries component renders correctly 1`] = `
   <div
     className="homePageCover"
   >
-    <h1>
-      World Weather
-    </h1>
-    <p>
-      Choose the country
-    </p>
+    <div
+      className="title"
+    >
+      <h1>
+        World Weather
+      </h1>
+      <p>
+        Choose the country
+      </p>
+    </div>
   </div>
   <div
     className="padding"
@@ -27,5 +31,8 @@ exports[`Testing Countries component renders correctly 1`] = `
   <div
     className="padding countries"
   />
+  <small>
+    developed by SaharSaba Amiri
+  </small>
 </div>
 `;

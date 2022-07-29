@@ -30,6 +30,7 @@ const Countries = () => {
           />
         ))}
       </div>
+      <small>developed by SaharSaba Amiri</small>
     </div>
   );
 };

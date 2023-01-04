@@ -13,12 +13,12 @@ const Countries = () => {
     <div className="countriesPage" data-testid="countriesContent">
       <div className="homePageCover">
         <div className="title">
-          <h1>World Weather</h1>
-          <p>Choose the country</p>
+          <h1>Weather Condition</h1>
+          <p>Select the country you wanna see its weather</p>
         </div>
       </div>
       <div className="padding">
-        <h2 className="countriesHeader">Countries</h2>
+        <h2 className="countriesHeader">Countries List</h2>
       </div>
       <div className="padding countries">
         {Object.values(countries).map((country) => (
